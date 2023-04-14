@@ -1,10 +1,6 @@
 <!DOCTYPE html>
-<html><head> <meta charset="UTF-8">
+<html>
+<head>
+<meta charset="UTF-8">
    <title>students</title>
 </head>
-
-<body style='margin-left: 30px;'>
-   <h1>CIT7 Students</h1>
-      <p>CIT7 students: Exam Scores</p>
-
-     
